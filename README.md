@@ -1,2 +1,2 @@
-# MyfristRipo
-heir werden wichtige informationen zu meunem Projekt angegeben
+f# MyfristRipo
+heir werden wichtige informationen zu meunem Projekt angegebe
